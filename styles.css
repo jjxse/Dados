@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Color de fondo pálido */
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #d3d3d3; /* Borde gris claro */
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #add8e6; /* Color azul claro */
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #87cefa; /* Color azul un poco más oscuro */
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #555; /* Color gris suave */
+}
